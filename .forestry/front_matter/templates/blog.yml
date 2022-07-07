@@ -17,3 +17,5 @@ fields:
 - type: file
   name: background
   label: background
+pages:
+- _posts/Testing.md
